@@ -1,2 +1,2 @@
 # shangyuan.github.io
-Personal blog
+My personal blog
